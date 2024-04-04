@@ -1,4 +1,4 @@
 Keylogger project for Naan Muthalvan 2024
-gmail: harisht24052004@gmail.com
-regno: 820421104030
-instn: Anjalai Ammal Mahalingam Engineering College
+\ngmail: harisht24052004@gmail.com
+\nregno: 820421104030
+\ninstn: Anjalai Ammal Mahalingam Engineering College
